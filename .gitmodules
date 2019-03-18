@@ -1,0 +1,3 @@
+[submodule "SubModulePrac-Sub"]
+	path = SubModulePrac-Sub
+	url = https://github.com/minomi/SubModulePrac-Sub.git
